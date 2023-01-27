@@ -27,8 +27,8 @@ jobs:
           CI: true
           REPO_NAME: auto-commit
           REPO_HOST: github.com
-          REPO_USER: Marhc
+          REPO_USER: debpc
           REPO_BRANCH: master
-          USER_NAME: marhc
+          USER_NAME: debpc
           USER_EMAIL: ${{ secrets.USER_EMAIL }}
           USER_TOKEN: ${{ secrets.GITHUB_TOKEN }}
